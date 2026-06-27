@@ -1,5 +1,3 @@
-<img width="163" height="25" alt="image" src="https://github.com/user-attachments/assets/9c6439ce-ee5f-4bbb-bba1-8cc72a0eddd6" /># Delhi Metro Passenger Flow Dataset
-
 ## 📂 Overview
 This dataset provides detailed records of **Delhi Metro trips**, including passenger counts, fares, distances, and ticket types. It is intended for transport research, operational analysis, and building data-driven insights into metro usage patterns.
 
